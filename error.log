@@ -1,0 +1,158 @@
+2018-05-01 14:46:25,382(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:22 - Start scannig
+2018-05-01 14:46:25,467(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/746.txt
+2018-05-01 14:46:25,467(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/744.txt
+2018-05-01 14:46:25,468(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/752.txt
+2018-05-01 14:46:25,468(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/766.txt
+2018-05-01 14:46:25,468(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/97.txt
+2018-05-01 14:46:25,468(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/763.txt
+2018-05-01 14:46:25,467(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/755.txt
+2018-05-01 14:46:25,467(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/774.txt
+2018-05-01 14:46:25,835(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:56 - Stop scannig
+2018-05-01 14:46:43,240(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:22 - Start scannig
+2018-05-01 14:46:43,317(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/763.txt
+2018-05-01 14:46:43,317(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/774.txt
+2018-05-01 14:46:43,318(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/752.txt
+2018-05-01 14:46:43,318(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/746.txt
+2018-05-01 14:46:43,317(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/755.txt
+2018-05-01 14:46:43,317(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/766.txt
+2018-05-01 14:46:43,317(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/744.txt
+2018-05-01 14:46:43,317(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/97.txt
+2018-05-01 14:46:43,685(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:56 - Stop scannig
+2018-05-01 14:47:17,661(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:22 - Start scannig
+2018-05-01 14:47:17,743(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/97.txt
+2018-05-01 14:47:17,743(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/744.txt
+2018-05-01 14:47:17,743(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/763.txt
+2018-05-01 14:47:17,743(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/774.txt
+2018-05-01 14:47:17,743(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/752.txt
+2018-05-01 14:47:17,743(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/746.txt
+2018-05-01 14:47:17,743(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/755.txt
+2018-05-01 14:47:17,743(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/766.txt
+2018-05-01 14:47:18,117(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:56 - Stop scannig
+2018-05-01 14:49:35,038(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:22 - Start scannig
+2018-05-01 14:49:35,118(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/763.txt
+2018-05-01 14:49:35,118(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/97.txt
+2018-05-01 14:49:35,118(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/744.txt
+2018-05-01 14:49:35,118(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/752.txt
+2018-05-01 14:49:35,118(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/746.txt
+2018-05-01 14:49:35,118(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/755.txt
+2018-05-01 14:49:35,118(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/774.txt
+2018-05-01 14:49:35,118(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/766.txt
+2018-05-01 14:49:35,468(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:56 - Stop scannig
+2018-05-01 14:50:21,920(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:22 - Start scannig
+2018-05-01 14:50:21,998(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/744.txt
+2018-05-01 14:50:21,998(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/774.txt
+2018-05-01 14:50:21,999(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/752.txt
+2018-05-01 14:50:21,998(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/746.txt
+2018-05-01 14:50:21,998(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/755.txt
+2018-05-01 14:50:21,998(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/763.txt
+2018-05-01 14:50:21,998(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/97.txt
+2018-05-01 14:50:21,998(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/766.txt
+2018-05-01 14:50:22,352(yyyy-MM-dd HH:mm:ss) INFO  Occurencies:56 - Stop scannig
+2018-05-01 15:53:53,031(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 15:53:53,039(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 15:53:53,039(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - SumTest
+2018-05-01 15:53:53,040(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file 232.txt
+2018-05-01 15:54:34,194(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 15:54:34,201(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 15:54:34,202(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - SumTest
+2018-05-01 15:54:34,202(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/97.txt
+2018-05-01 15:59:11,379(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 15:59:11,388(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 15:59:11,389(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 15:59:11,389(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 15:59:25,759(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 15:59:25,812(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 15:59:25,818(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:00:29,773(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:00:31,533(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:00:31,542(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:00:31,544(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:00:38,829(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:00:40,237(yyyy-MM-dd HH:mm:ss) ERROR ReadFile:24 - Bad name file null
+2018-05-01 16:01:00,579(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:01:00,588(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:01:00,591(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:01:00,592(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:01:00,592(yyyy-MM-dd HH:mm:ss) ERROR ReadFile:24 - Bad name file null
+2018-05-01 16:01:11,883(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:01:11,890(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:01:11,890(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:01:11,891(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:01:11,891(yyyy-MM-dd HH:mm:ss) ERROR ReadFile:24 - Bad name file null
+2018-05-01 16:01:17,320(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:01:17,329(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:01:17,332(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:01:26,262(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:01:26,272(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:01:26,276(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:01:29,559(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:01:29,568(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:01:29,571(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:01:35,876(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:01:35,876(yyyy-MM-dd HH:mm:ss) ERROR ReadFile:24 - Bad name file null
+2018-05-01 16:01:52,099(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:01:52,109(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:01:52,113(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:02:05,758(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:02:09,892(yyyy-MM-dd HH:mm:ss) ERROR ReadFile:24 - Bad name file null
+2018-05-01 16:04:56,031(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:04:56,038(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:04:56,039(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:04:56,040(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:04:56,040(yyyy-MM-dd HH:mm:ss) ERROR ReadFile:24 - Bad name file null
+2018-05-01 16:05:41,197(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:05:41,204(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:05:41,204(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:05:41,205(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:06:14,978(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:06:14,986(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:06:14,986(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:06:14,987(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:07:08,188(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:07:08,195(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:07:08,195(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:07:08,196(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:12:53,477(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:12:53,492(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:12:53,496(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:12:53,500(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:14:54,117(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:14:54,128(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:14:54,128(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:48 - getInputStreamNoData
+2018-05-01 16:14:54,129(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file https://yandex.ru
+2018-05-01 16:15:32,040(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:15:32,048(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:15:32,052(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:48 - getInputStreamNoData
+2018-05-01 16:15:32,053(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file https://yandex.ru
+2018-05-01 16:25:27,116(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:25:27,129(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:25:27,130(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:48 - getInputStreamNoData
+2018-05-01 16:25:27,130(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file https://yandex.ru
+2018-05-01 16:25:42,181(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:25:42,200(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:25:42,200(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:48 - getInputStreamNoData
+2018-05-01 16:25:42,201(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file https://yandex.ru
+2018-05-01 16:26:35,956(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:26:35,966(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:26:35,966(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:63 - getInputStreamNoData
+2018-05-01 16:26:35,967(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/97.txt
+2018-05-01 16:28:20,796(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:28:20,809(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:28:20,811(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:28:20,811(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:28:20,814(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:28:20,814(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:48 - getInputStreamNoData
+2018-05-01 16:28:20,814(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file https://yandex.ru
+2018-05-01 16:28:21,978(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:28:21,978(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:63 - getInputStreamNoData
+2018-05-01 16:28:21,979(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/97.txt
+2018-05-01 16:30:13,182(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:20 - @BeforeClass
+2018-05-01 16:30:13,195(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:30:13,195(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:31 - getInputStreamNoData
+2018-05-01 16:30:13,196(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file null
+2018-05-01 16:30:13,197(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:30:13,198(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:39 - getInputStreamNoData
+2018-05-01 16:30:13,198(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file https://yandex.ru
+2018-05-01 16:30:14,929(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:25 - @Before
+2018-05-01 16:30:14,929(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:48 - getInputStreamNoData
+2018-05-01 16:30:14,930(yyyy-MM-dd HH:mm:ss) INFO  ReadFile:21 - Scan file file/97.txt
